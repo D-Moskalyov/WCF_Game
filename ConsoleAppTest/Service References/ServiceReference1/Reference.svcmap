@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1f358479-068d-4613-a95d-8cdea533e5c3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/WcfService/ServiceGame/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="70739ef3-8f9e-4b28-8746-43829cf05819" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfService/ServiceGame/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="2b031fc6-4a1d-4de0-a2eb-72d8f0176a19" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfService/ServiceGame/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="5923e43d-21c7-418b-b799-5f38aaca2a8a" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfService/ServiceGame/mex" />
+    <MetadataFile FileName="System.Windows.Media.xsd" MetadataType="Schema" ID="abb8a6db-0d71-40e9-b80c-bcf657db157d" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfService/ServiceGame/mex" />
+    <MetadataFile FileName="WcfService.xsd" MetadataType="Schema" ID="b0d682a2-7288-425a-a484-ce646467cf30" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfService/ServiceGame/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
